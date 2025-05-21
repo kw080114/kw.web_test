@@ -20,7 +20,8 @@
 }
 
 .permission_denied a {
-    text-decoration: none;
+    background: url('apex-key-art-2.avif') center center no-repeat !important;
+    background-size: cover;
 }
 
 .denied__wrapper {
