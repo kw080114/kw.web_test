@@ -16,12 +16,12 @@
 }
 
 .permission_denied {
-    background: #24344c !important;
+    background: url('apex-key-art-2.avif') center center no-repeat !important;
+    background-size: cover;
 }
 
 .permission_denied a {
-    background: url('apex-key-art-2.avif') center center no-repeat !important;
-    background-size: cover;
+    text-decoration: none;
 }
 
 .denied__wrapper {
