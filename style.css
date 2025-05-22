@@ -16,8 +16,7 @@
 }
 
 .permission_denied {
-    background: url('./assets/thumb-1920-992033.jpg') center center no-repeat !important;
-    background-size: cover;
+      background: #24344c !important;
 }
 
 .permission_denied a {
